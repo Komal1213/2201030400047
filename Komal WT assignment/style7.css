@@ -1,0 +1,30 @@
+body{
+    background-color: azure;
+}
+
+.heading{
+    text-align: center;
+    text-decoration: underline;
+    font-weight: 900;
+    font-size: xx-large;
+    color: rebeccapurple;
+}
+
+p{
+    padding-left: 400px;
+    text-align: center;
+    width: 500px;
+    color: midnightblue;
+    font-weight: 500;
+    font-size: larger ;
+}
+
+div{  
+    padding-left: 600px;  
+}
+
+div button{
+    background-color: white;
+    color: darkblue;
+    
+}
