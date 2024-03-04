@@ -1,0 +1,14 @@
+h2{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+
+p ul li{
+    text-align: center;
+}
+div button{
+    background-color: white;
+    color: darkblue;
+}
